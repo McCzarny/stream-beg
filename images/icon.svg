@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="256"
+   height="256"
+   viewBox="0 0 67.73333 67.733334"
+   version="1.1"
+   id="svg616"
+   sodipodi:docname="icon.svg"
+   inkscape:version="1.2.1 (9c6d41e410, 2022-07-14)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview618"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:zoom="1.4503086"
+     inkscape:cx="364.74995"
+     inkscape:cy="238.91466"
+     inkscape:window-width="1920"
+     inkscape:window-height="1001"
+     inkscape:window-x="-9"
+     inkscape:window-y="-9"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs613" />
+  <g
+     inkscape:label="Warstwa 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <g
+       id="5-coin"
+       transform="translate(-34.420656,-94.748186)"
+       inkscape:export-filename="icon.png"
+       inkscape:export-xdpi="214.07001"
+       inkscape:export-ydpi="214.07001">
+      <circle
+         style="fill:#ffffff;stroke:#000000;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none"
+         id="path2237-4"
+         cx="75.948532"
+         cy="130.34798"
+         r="11.222931" />
+      <circle
+         style="fill:#000000;stroke:#000000;stroke-width:1.30606;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none"
+         id="path2237-5-6"
+         cx="75.948532"
+         cy="130.34798"
+         r="7.3289218" />
+      <text
+         xml:space="preserve"
+         style="font-size:11.2889px;fill:#000000;stroke:#000000;stroke-width:0.4;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none"
+         x="72.291214"
+         y="134.45177"
+         id="text4590-6"><tspan
+           sodipodi:role="line"
+           id="tspan4588-8"
+           style="font-size:11.2889px;fill:#ffffff;stroke:#ffffff;stroke-width:0.4;stroke-dasharray:none"
+           x="72.291214"
+           y="134.45177">5</tspan></text>
+    </g>
+    <g
+       id="2-coin"
+       transform="translate(-34.420656,-94.748186)">
+      <circle
+         style="fill:#ffffff;stroke:#000000;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none"
+         id="path2237"
+         cx="59.984631"
+         cy="124.41891"
+         r="11.222931" />
+      <circle
+         style="fill:#000000;stroke:#000000;stroke-width:1.30606;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none"
+         id="path2237-5"
+         cx="59.984631"
+         cy="124.41891"
+         r="7.3289218" />
+      <text
+         xml:space="preserve"
+         style="font-size:11.2889px;fill:#000000;stroke:#000000;stroke-width:0.4;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none"
+         x="56.327312"
+         y="128.52271"
+         id="text4590"><tspan
+           sodipodi:role="line"
+           id="tspan4588"
+           style="font-size:11.2889px;fill:#ffffff;stroke:#ffffff;stroke-width:0.4;stroke-dasharray:none"
+           x="56.327312"
+           y="128.52271">2</tspan></text>
+    </g>
+  </g>
+</svg>
